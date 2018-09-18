@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "link": {}
+    },
+    "attributes": {
+        "placeholder": {
+            "context": "input"
+        }
+    }
+}
